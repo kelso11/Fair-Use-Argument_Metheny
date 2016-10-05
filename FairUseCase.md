@@ -24,7 +24,7 @@ The nature of _It's Finally Ironic_ is an obvious example of __parody__.  Parody
 
 In regards to lyrics, all of the anecdotes presented in Alanis Morissette's song _Ironic_  are implied to be ironic. _However_ Rachael and Eliza Hurwitz, disagree with this implication. Instead in their video, Rachael and Eliza use Alanis Morissette’s examples and make them literal cases of irony. This is accomplished by adding lyrics to the original song. An example would be: (provide example). 
 
-In regards to style, the parody video is mocking the original music video. The film’s style is very similar and both take place in a car. However, additional props are used throughout the parody music video. An example of this would be the loaf of french bread seen throughout the video. The props seems random and slightly ridiculous, which successfully pokes fun at the original music video.   
+In regards to style, the parody video is mocking the original music video. The films styles are very similar and both videos take place entirely in a car.  However, the use of props and expressions throughout the parody provide humor. In the original video, Alanis Morissette is seen eating chips, a common car ride snack, in the backseat throughout the film. Alternatively, the parody video has Ms. Hurwitz in the backseat eating an entire loaf of French bread. The French breach is used specifically as a microphone at time 2:20. This action is accompanied by exaggerated expressions and a full mouth of bread.  The use of this prop appears to be over exaggerated and ridiculous, which successfully pokes fun at the original music video.  
  
 ### Factor 2: Nature
  
@@ -32,6 +32,16 @@ The original work was a published piece. _Ironic_ was released in 1995 and the p
  
 ### Factor 3: Amount Taken
 Though the amount of original content used is significant, fair use has exceptions for parody cases. As quoted: (A parodist is permitted to borrow quite a bit, even the heart of the original work, in order to conjure up the original work.)[ http://fairuse.stanford.edu/overview/fair-use/four-factors/] . Therefore, _It's Finally Ironic_ has the right to use a large portion of the original track. It is critical that the audience recognize the original piece in order to have the comedic effect. 
+Additionally, though a significant amount of the original content is used, lyrics are changed from the original consistently throughout the song. A comparison of the first stanza in each song  clearly highlights significant differences:
+|Original Lyrics|Parody Lyrics|
+|:---:|:---:|
+|An old man turned ninety-eight| An old man turned 98
+He won the lottery and died the next day| He won the lottery, and died the next day, from a sever paper cut from his lottery ticket
+It's a black fly in your Chardonnay| It's a black fly in your chardonnay that was specifically purchased to repel black flies
+It's a death row pardon two minutes too late|It's a death row pardon that causes your demise, because you leave the jail and get hit by a bus
+Isn't it ironic, don't you think| And that really is ironic We fixed it for you, Alanis (you're welcome)
+
+
 ### Factor 4: Market Effects
 I believe any effect on the market is either negligible or nonexistent. The parody video does not aim to destroy the original video’s market. The additional lyrics are amusing and awkward. The parody is not intended to replace or compete with its original.
 
