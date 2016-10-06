@@ -11,7 +11,7 @@ ___
 The vast majority of lyrics and music used in Rachael and Eliza Hurwitz YouTube video, titled [_It's Finally Ironic_ ](https://www.youtube.com/watch?v=32LCwZFoKio), are directly taken from Alanis Morissette's track, [_Ironic_](https://www.youtube.com/watch?v=Jne9t8sHpUc), released in 1995. _Ironic_ was an immensely popular song across the world and nominated for two Grammy's. Rachael and Eliza's video was produced over a decade later and aimed to be a humorous version of the original song. Though similar videos have been removed from YouTube for copyright infringement, the legality of this video is argued in the following paragraphs based on fair use. 
  
  
-#####  __Fair Use__ can be defined as:
+####  __Fair Use__ can be defined as:
  "[a copyright principle based on the belief that the public is entitled to freely use portions of copyrighted materials for purposes of commentary and criticism](http://fairuse.stanford.edu/overview/fair-use/)." Fair Use is upheld by four elements. These [factors are](http://fairuse.stanford.edu/overview/fair-use/four-factors/):
  * the purpose and character of your use
  * the nature of the copyrighted work
