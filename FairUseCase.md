@@ -23,7 +23,7 @@ Each element of fair use is thoroughly examined below in order to argue the auth
 ### Factor 1: Character
 The nature of _It's Finally Ironic_ is an obvious example of __parody__.  Parody can be [defined as](http://www.merriam-webster.com/dictionary/parody) "a piece of writing, music, etc., that imitates the style of someone or something else in an amusing way".  _It's finally Ironic_ imitates both the lyrics and music of its original in a humorous way. 
 
-In regards to lyrics, Rachael and Eliza Hurwitz, disagree with the implication that Alanis Morissette’s examples of irony are indeed _ironic_. Instead in their video, Rachael and Eliza use Alanis Morissette’s lyrics and make them literal cases of irony.  An example is: 
+In regards to lyrics, Rachael and Eliza Hurwitz disagree with the implication that Alanis Morissette’s examples of irony are indeed _ironic_. Instead in their video, Rachael and Eliza use Alanis Morissette’s lyrics and make them literal cases of irony.  An example is: 
 
 |Original Lyrics|Parody Lyrics|
 |:---:|:---:|
@@ -39,7 +39,7 @@ _Ironic_  was a published in 1995 and the parody video was not released until 20
 ### Factor 3: Amount Taken
 Though the amount of original content used is significant, fair use has exceptions for parody cases. As quoted: [A parodist is permitted to borrow quite a bit, even the heart of the original work, in order to conjure up the original work.]( http://fairuse.stanford.edu/overview/fair-use/four-factors/) . Therefore, _It's Finally Ironic_ has the right to use a large portion of the original track. It is critical that the audience recognize the original piece in order to have the comedic effect. 
 
-Additionally, though a significant amount of original content is used, lyrics are added throughout the song. Below, a comparison of the first stanza clearly highlights significant differences. These differences considerably change the original song. 
+Additionally, even though a significant amount of original content is used, lyrics are added throughout the song. Below, a comparison of the first stanza clearly highlights significant differences. These differences considerably change the original song. 
 
 |Original Lyrics|Parody Lyrics|
 |:---:|:---:|
